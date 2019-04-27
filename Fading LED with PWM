@@ -1,7 +1,8 @@
 ; Geraldy Christanto
 ; 1706043001
-; 8A - Praktikum Sistem Berbasis Komputer
-
+; Computer Based System
+; assembly code to control the led light intensity with PWM
+; (C)2019
 
 ;LED 		> P2
 
